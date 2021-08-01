@@ -1,2 +1,2 @@
-# Day_46 Musical-Time-Machine
+# MusicalTimeMachine
 Create a playlist on Spotify using Top 100 songs from your given date.
